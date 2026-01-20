@@ -1,0 +1,58 @@
+name: Suggest a Tool
+description: Suggest a tool, resource, or agency to add to the list
+title: "[Suggestion] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g., Acme Tools
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Infrastructure & DevOps
+        - Backend & Data
+        - AI & Machine Learning
+        - Frontend & UI
+        - Design & Creative
+        - Video & Media
+        - Developer Tools
+        - Authentication & Security
+        - Communication
+        - Business & Marketing
+        - Payments & Finance
+        - Mobile Development
+        - Talent & Hiring
+        - Agencies & Designers
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One sentence, no articles (a, an, the) at the start, end with a period.
+      placeholder: Platform for building and deploying applications.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this be included?
+      placeholder: What makes this tool worth adding?

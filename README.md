@@ -4,104 +4,6 @@ Tools, resources, and people worth knowing. A curated collection for builders an
 
 ---
 
-## MCP Server
-
-This repo includes an MCP server so AI coding agents can search and recommend tools. Updates sync automatically from this repo.
-
-### Quick Start
-
-Select your client and run the command:
-
-<details open>
-<summary><strong>Claude Code</strong></summary>
-
-```bash
-npx thetoolforthat init --client claude
-```
-
-Restart Claude Code and try:
-- Search for animation libraries
-- Recommend tools for building a SaaS dashboard
-- List all design agencies
-
-</details>
-
-<details>
-<summary><strong>Cursor</strong></summary>
-
-```bash
-npx thetoolforthat init --client cursor
-```
-
-Open Cursor Settings and enable the MCP server for thetoolforthat.
-
-</details>
-
-<details>
-<summary><strong>VS Code</strong></summary>
-
-```bash
-npx thetoolforthat init --client vscode
-```
-
-Open `.vscode/mcp.json` and click Start next to thetoolforthat.
-
-</details>
-
-<details>
-<summary><strong>Codex</strong></summary>
-
-```bash
-npx thetoolforthat init --client codex
-```
-
-Then add to `~/.codex/config.toml`:
-
-```toml
-[mcp_servers.thetoolforthat]
-command = "npx"
-args = ["thetoolforthat", "mcp"]
-```
-
-</details>
-
-<details>
-<summary><strong>OpenCode</strong></summary>
-
-```bash
-npx thetoolforthat init --client opencode
-```
-
-Restart OpenCode and you're ready.
-
-</details>
-
-### Manual Configuration
-
-Add to your MCP config:
-
-```json
-{
-  "mcpServers": {
-    "thetoolforthat": {
-      "command": "npx",
-      "args": ["thetoolforthat", "mcp"]
-    }
-  }
-}
-```
-
-### Available Tools
-
-| Tool | Description |
-|------|-------------|
-| `search-tools` | Search by keyword, tool name, or category. |
-| `list-categories` | List all categories and subcategories. |
-| `get-tools-by-category` | Get all tools in a specific category. |
-| `recommend-tools` | Get recommendations for a use case. |
-
----
-
 ## Table of Contents
 
 - [Infrastructure & DevOps](#infrastructure--devops)
@@ -172,6 +74,7 @@ Add to your MCP config:
   - [Design Agencies](#design-agencies)
   - [Individual Designers](#individual-designers)
 - [Other Tools](#other-tools)
+- [MCP Server](#mcp-server)
 
 ---
 
@@ -861,13 +764,99 @@ Talented designers worth following and working with.
 
 ---
 
+## MCP Server
+
+This repo includes an MCP server so AI coding agents can search and recommend tools.
+
+<details>
+<summary><strong>Claude Code</strong></summary>
+
+```bash
+npx thetoolforthat init --client claude
+```
+
+Restart Claude Code and try:
+- Search for animation libraries
+- Recommend tools for building a SaaS dashboard
+- List all design agencies
+
+</details>
+
+<details>
+<summary><strong>Cursor</strong></summary>
+
+```bash
+npx thetoolforthat init --client cursor
+```
+
+Open Cursor Settings and enable the MCP server.
+
+</details>
+
+<details>
+<summary><strong>VS Code</strong></summary>
+
+```bash
+npx thetoolforthat init --client vscode
+```
+
+Open `.vscode/mcp.json` and click Start.
+
+</details>
+
+<details>
+<summary><strong>Codex</strong></summary>
+
+```bash
+npx thetoolforthat init --client codex
+```
+
+Then add to `~/.codex/config.toml`:
+
+```toml
+[mcp_servers.thetoolforthat]
+command = "npx"
+args = ["thetoolforthat", "mcp"]
+```
+
+</details>
+
+<details>
+<summary><strong>OpenCode</strong></summary>
+
+```bash
+npx thetoolforthat init --client opencode
+```
+
+</details>
+
+<details>
+<summary><strong>Manual Configuration</strong></summary>
+
+```json
+{
+  "mcpServers": {
+    "thetoolforthat": {
+      "command": "npx",
+      "args": ["thetoolforthat", "mcp"]
+    }
+  }
+}
+```
+
+</details>
+
+**Available tools:** `search-tools`, `list-categories`, `get-tools-by-category`, `recommend-tools`
+
+---
+
 ## Contributing
 
 Found a tool that should be on this list? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
-This collection is open source and available for anyone to use and share.
+MIT - See [LICENSE](LICENSE) for details.
 
 ---
 
