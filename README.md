@@ -852,6 +852,69 @@ npx thetoolforthat init --client opencode
 
 ---
 
+## Agent Skill
+
+Beyond the MCP server (which provides search capabilities), this repo includes an **Agent Skill** that teaches AI coding agents the principles and expertise behind tool selection.
+
+Think of it this way:
+- **MCP Server** = Gives AI agents the ability to search the tool database
+- **Agent Skill** = Teaches AI agents *how to think* about tool selection
+
+The skill contains curated knowledge about:
+- Tool selection principles (quality, right-sizing, integration, cost)
+- Decision frameworks for each category
+- Common stack patterns (SaaS, AI apps, mobile)
+- When to recommend specific tools and why
+
+### Installation
+
+<details>
+<summary><strong>Claude Code</strong></summary>
+
+Copy the skill to your global skills directory:
+
+```bash
+mkdir -p ~/.claude/skills
+cp -r .claude/skills/thetoolforthat ~/.claude/skills/
+```
+
+Or for project-specific use, the skill is already in `.claude/skills/thetoolforthat/`.
+
+Then use `/thetoolforthat` in Claude Code to activate the skill, or Claude will automatically invoke it when you ask about tool selection.
+
+</details>
+
+<details>
+<summary><strong>Cursor (1.6+)</strong></summary>
+
+Copy the skill to your project's `.cursor/skills/` directory:
+
+```bash
+mkdir -p .cursor/skills
+cp -r .claude/skills/thetoolforthat .cursor/skills/
+```
+
+</details>
+
+<details>
+<summary><strong>Other Tools</strong></summary>
+
+The skill file is at `.claude/skills/thetoolforthat/SKILL.md`. Copy it to your tool's skills directory or reference it directly.
+
+</details>
+
+### Example Usage
+
+Ask questions like:
+- "What database should I use for my startup?"
+- "Recommend an auth provider for enterprise SSO"
+- "What's a good stack for building an AI application?"
+- "Compare Vercel vs Railway for my use case"
+
+The skill helps Claude provide expert recommendations with clear reasoning, not just list options.
+
+---
+
 ## Contributing
 
 Found a tool that should be on this list? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
