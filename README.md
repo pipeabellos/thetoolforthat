@@ -671,6 +671,7 @@ Tools, resources, and people worth knowing. A curated collection for builders an
 | Tool | Description |
 |------|-------------|
 | [**Common Paper**](https://commonpaper.com/) | Build, negotiate, and sign contracts with AI |
+| [**Clerky**](https://clerky.com/) | Startup legal paperwork platform for incorporation, equity, and fundraising documents. |
 
 ## Productivity
 
