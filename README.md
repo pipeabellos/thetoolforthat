@@ -1,6 +1,6 @@
 # The Tool For That
 
-Tools, resources, and people worth knowing. A curated collection for builders and creators.
+500+ tools, resources, and people worth knowing. A curated collection for builders and creators.
 
 ---
 
@@ -857,7 +857,7 @@ Found a tool that should be on this list? See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
-MIT - See [LICENSE](LICENSE) for details.
+[CC0 1.0](LICENSE) - Public domain. Use freely.
 
 ---
 
