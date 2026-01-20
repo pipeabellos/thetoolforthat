@@ -1,2 +1,11 @@
 # Scratchpad
 tools.md
+
+# MCP Server (published to npm)
+cli.js
+server.js
+package.json
+package-lock.json
+
+# Dependencies
+node_modules/
