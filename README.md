@@ -771,7 +771,7 @@ Talented designers worth following and working with.
 Teach your AI coding agent how to effectively use the MCP tools:
 
 ```bash
-npx skills add felipeabello/thetoolforthat --skill "thetoolforthat"
+npx skills add pipeabellos/thetoolforthat --skill "thetoolforthat"
 ```
 
 This installs the skill to Claude Code, Cursor, Windsurf, and other supported agents, providing guidance on how to search, filter, and recommend tools from the collection.
