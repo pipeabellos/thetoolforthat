@@ -766,6 +766,18 @@ Talented designers worth following and working with.
 
 ---
 
+## Install as Agent Skill
+
+Teach your AI coding agent how to effectively use the MCP tools:
+
+```bash
+npx skills add felipeabello/thetoolforthat --skill "thetoolforthat"
+```
+
+This installs the skill to Claude Code, Cursor, Windsurf, and other supported agents, providing guidance on how to search, filter, and recommend tools from the collection.
+
+---
+
 ## MCP Server
 
 This repo includes an MCP server so AI coding agents can search and recommend tools.
