@@ -292,6 +292,7 @@
 | [**Lottielab**](https://www.lottielab.com/) | Motion design platform for creating and editing Lottie animations |
 | [**SuperMotion**](https://www.supermotion.co/) | Video creation tool that transforms images into animated product videos |
 | [**Remotion**](https://www.remotion.dev/) | Create real MP4 videos with React through code-based composition |
+| [**60fps.design**](https://60fps.design/) | Curated collection of smooth animation and motion design inspiration. |
 
 ## Motion Libraries
 
@@ -344,6 +345,13 @@
 | [**Simple Design**](https://simple.design/) | Beautifully simple web design inspiration without excessive animations |
 | [**Framer Marketplace**](https://www.framer.com/marketplace/templates/) | Customizable website templates for portfolios, businesses, and landing pages |
 | [**Pattern Craft**](https://patterncraft.fun/) | 100+ CSS and Tailwind background patterns and gradients |
+| [**Curations**](https://curations.supply/) | Curated design library and resource collection. |
+| [**Landing Love**](https://landing.love/) | Curated gallery of landing page design inspiration. |
+| [**Saaspo**](https://saaspo.com/) | Collection of SaaS website design inspiration. |
+| [**Navbar Gallery**](https://navbar.gallery/) | Curated gallery of navigation bar design examples. |
+| [**Uncut**](https://uncut.wtf/) | Free, high-quality typefaces for creative projects. |
+| [**Rebrand Gallery**](https://rebrand.gallery/) | Showcase of brand identity redesigns and rebrands. |
+| [**Component Gallery**](https://component.gallery/) | Collection of design system component examples. |
 
 ## Icons & Assets
 
