@@ -322,7 +322,7 @@
 |------|-------------|
 | [**Fontshare**](https://www.fontshare.com/) | Quality fonts for free |
 | [**Layers**](https://layers.to/) | Design exploration and community platform |
-| [**Mobbin**](https://mobbin.com/?via=abraham) | UI/UX design inspiration library |
+| [**Mobbin**](https://mobbin.com/) | UI/UX design inspiration library |
 | [**Happy Hues**](https://www.happyhues.co/) | Color palette inspiration |
 | [**Coolors**](https://coolors.co/) | Super fast color palette generator |
 | [**Logo System**](https://logosystem.co/) | 1000+ logo designs for inspiration |
@@ -362,7 +362,7 @@
 | [**Lordicon**](https://lordicon.com/) | 39,600+ animated icons |
 | [**Nucleo**](https://nucleoapp.com/) | Premium SVG icon library |
 | [**Iconly Pro**](https://iconly.pro/) | 40,000+ icons with weekly updates |
-| [**Hugeicons**](https://hugeicons.com/?via=Abraham) | 46,000+ icons across 10 styles |
+| [**Hugeicons**](https://hugeicons.com/) | 46,000+ icons across 10 styles |
 | [**Pikaicons**](https://pikaicons.com/) | Free & premium SVG icons |
 | [**lucide-animated**](https://icons.pqoqubbw.dev/) | 350+ animated icons built with Motion |
 | [**Isocons**](https://www.isocons.app/) | Isometric icons for UI/UX |
