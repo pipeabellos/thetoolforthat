@@ -733,6 +733,7 @@ Talented agencies and individual designers worth working with for your next proj
 | [**see.design**](https://see.design/) | Design studio |
 | [**Revamp my Design**](https://rvmp.me/) | Design revamp and renovation services |
 | [**Zajno**](https://zajno.com/) | Award-winning digital studio for web design, branding, 3D, animation, and Webflow development. |
+| [**Territory Group**](https://www.territorygroup.com/) | Creative collective specializing in motion design, visual effects, and UI/UX for film, games, and brands. |
 
 ## Individual Designers
 
