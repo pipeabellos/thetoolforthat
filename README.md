@@ -99,6 +99,7 @@
 | [**Infra.new**](https://infra.new/) | AI-powered infrastructure code generator for Terraform, Kubernetes, and CI/CD configurations |
 | [**Freestyle**](https://www.freestyle.sh/) | Cloud infrastructure platform for managing AI-generated and customer code |
 | [**Encore**](https://encore.dev/) | TypeScript backend framework that automatically handles infrastructure provisioning and wiring |
+| [**exe.dev**](https://exe.dev/) | VM subscription service providing instant, HTTPS-accessible virtual machines with persistent disks. |
 
 ## Secrets & Configuration
 
