@@ -312,7 +312,7 @@
 
 | Tool | Description |
 |------|-------------|
-| [**Spline**](https://spline.design/) | Web-based 3D design and collaboration platform for interactive experiences |
+| [**Spline**](https://spline.design/) | Web-based 3D design and collaboration platform for interactive experiences. |
 | [**Rotato**](https://rotato.app/) | 3D mockup generator for creating professional device mockups without 3D expertise |
 | [**Studio Vibe**](https://studiovibe.nl/) | Creative studio specializing in immersive 3D animations for brand identity |
 
