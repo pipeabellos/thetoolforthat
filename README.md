@@ -479,6 +479,7 @@
 | [**WorkOS**](https://workos.com/) | Enterprise authentication with SSO and directory sync |
 | [**Stack Auth**](https://stack-auth.com/) | Open-source authentication platform |
 | [**Better Auth**](https://www.better-auth.com/) | TypeScript authentication framework |
+| [**SuperTokens**](https://supertokens.com/) | Open-source authentication with prebuilt UI and session management |
 
 ## Compliance & Security
 
