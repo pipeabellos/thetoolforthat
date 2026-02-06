@@ -587,6 +587,7 @@
 | [**Icon**](https://icon.com/) | AI admaker for planning and creating campaigns |
 | [**Recraft**](https://www.recraft.ai/) | AI-powered design platform |
 | [**ImgxAI**](https://imgxai.com/) | ChatGPT image generation interface |
+| [**TikTok Warmup Bot**](https://github.com/l-portet/tiktok-warmup-bot) | Automate TikTok account warmup using iOS Voice Control |
 
 ## Sales & Lead Generation
 
