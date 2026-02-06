@@ -479,6 +479,7 @@
 | [**WorkOS**](https://workos.com/) | Enterprise authentication with SSO and directory sync |
 | [**Stack Auth**](https://stack-auth.com/) | Open-source authentication platform |
 | [**Better Auth**](https://www.better-auth.com/) | TypeScript authentication framework |
+| [**SuperTokens**](https://supertokens.com/) | Open-source authentication with prebuilt UI and session management |
 
 ## Compliance & Security
 
@@ -586,6 +587,7 @@
 | [**Icon**](https://icon.com/) | AI admaker for planning and creating campaigns |
 | [**Recraft**](https://www.recraft.ai/) | AI-powered design platform |
 | [**ImgxAI**](https://imgxai.com/) | ChatGPT image generation interface |
+| [**TikTok Warmup Bot**](https://github.com/l-portet/tiktok-warmup-bot) | Automate TikTok account warmup using iOS Voice Control |
 
 ## Sales & Lead Generation
 
