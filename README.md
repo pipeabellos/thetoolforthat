@@ -588,6 +588,7 @@
 | [**Recraft**](https://www.recraft.ai/) | AI-powered design platform |
 | [**ImgxAI**](https://imgxai.com/) | ChatGPT image generation interface |
 | [**TikTok Warmup Bot**](https://github.com/l-portet/tiktok-warmup-bot) | Automate TikTok account warmup using iOS Voice Control |
+| [**Viral**](https://viral.app/#pricing) | Track analytics for short-form video content across TikTok, Instagram, and YouTube. |
 
 ## Sales & Lead Generation
 
