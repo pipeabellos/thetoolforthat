@@ -487,6 +487,7 @@
 |------|-------------|
 | [**Oneleet**](https://www.oneleet.com/) | Security-first compliance platform |
 | [**Antimetal**](https://antimetal.com/) | AI platform for cloud issue investigation |
+| [**ZeroLeaks**](https://zeroleaks.ai/) | AI security platform for testing system prompts against injection and extraction vulnerabilities. |
 
 ---
 
