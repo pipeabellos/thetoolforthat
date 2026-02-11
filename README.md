@@ -665,6 +665,7 @@
 | Tool | Description |
 |------|-------------|
 | [**Astro**](https://tryastro.app/) | App Store Optimization tool |
+| [**FrameHero**](https://www.framehero.dev/) | Automated localized app store screenshot generation with iOS Simulator sync and App Store Connect upload. |
 
 ---
 
