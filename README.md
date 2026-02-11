@@ -487,6 +487,7 @@
 |------|-------------|
 | [**Oneleet**](https://www.oneleet.com/) | Security-first compliance platform |
 | [**Antimetal**](https://antimetal.com/) | AI platform for cloud issue investigation |
+| [**ZeroLeaks**](https://zeroleaks.ai/) | AI security platform for testing system prompts against injection and extraction vulnerabilities. |
 
 ---
 
@@ -665,6 +666,7 @@
 | Tool | Description |
 |------|-------------|
 | [**Astro**](https://tryastro.app/) | App Store Optimization tool |
+| [**FrameHero**](https://www.framehero.dev/) | Automated localized app store screenshot generation with iOS Simulator sync and App Store Connect upload. |
 
 ---
 
