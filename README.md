@@ -590,6 +590,7 @@
 | [**ImgxAI**](https://imgxai.com/) | ChatGPT image generation interface |
 | [**TikTok Warmup Bot**](https://github.com/l-portet/tiktok-warmup-bot) | Automate TikTok account warmup using iOS Voice Control |
 | [**Viral**](https://viral.app/#pricing) | Track analytics for short-form video content across TikTok, Instagram, and YouTube. |
+| [**Affonso**](https://affonso.io/?via=poweredby&sub1=post-bridge&affonso_id=cmlipmwv701v7r101lquuv7o2) | Affiliate program software for SaaS to launch and scale partner programs. |
 
 ## Sales & Lead Generation
 
