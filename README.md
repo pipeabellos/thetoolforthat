@@ -508,7 +508,7 @@
 | [**Sent.dm**](https://www.sent.dm/) | Unified messaging API for SMS, WhatsApp, iMessage |
 | [**Surge**](https://surge.app/) | SMS API platform |
 | [**Sendo**](https://sendo.dev/) | Best SMS API for developers |
-| [**Kapso**](https://kapso.ai/) | WhatsApp for developers |
+| [**Kapso**](https://kapso.ai/) | WhatsApp API platform for developers to build AI agents and conversation flows. |
 | [**Coral Messaging**](https://www.coralmessaging.com/) | WhatsApp solution for visibility and automation |
 | [**A1Base**](https://www.a1base.com/) | API to give AI agents phone numbers and email |
 
