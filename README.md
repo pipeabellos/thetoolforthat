@@ -150,6 +150,7 @@
 | [**Typesense**](https://typesense.org/) | Open-source, lightning-fast search engine |
 | [**OpenPanel**](https://openpanel.dev/) | Open-source analytics combining Mixpanel and Plausible |
 | [**DataFast**](https://datafa.st/) | Revenue-focused analytics for entrepreneurs |
+| [**Visitors**](https://visitors.now/) | Privacy-friendly web analytics with real-time visitor tracking. |
 
 ## Web Scraping & Data Extraction
 
@@ -185,7 +186,7 @@
 | Tool | Description |
 |------|-------------|
 | [**Krea**](https://www.krea.ai/) | Creative AI suite for generating images, video, and 3D assets |
-| [**ComfyUI**](https://github.com/comfyanonymous/ComfyUI) | Node-based diffusion model GUI for image/video/audio generation |
+| [**ComfyUI**](https://www.comfy.org/) | Node-based diffusion model GUI for image/video/audio generation |
 | [**Hyperbrowser**](https://www.hyperbrowser.ai/) | Browser-as-a-service for AI agents and apps |
 | [**Mastra**](https://mastra.ai/) | TypeScript framework for building AI-powered applications |
 | [**Supermemory**](https://supermemory.ai/) | Universal Memory API for AI applications |
@@ -272,6 +273,7 @@
 | [**Segment UI**](https://segmentui.com/) | Design components and UI kits for Framer and Figma |
 | [**Tailark**](https://tailark.com/) | Pre-built marketing blocks and sections using Shadcn UI and Tailwind CSS |
 | [**UiPub**](https://uipub.com/) | Premium shadcn/ui components registry for designers and developers |
+| [**Tailwind Plus**](https://tailwindcss.com/plus/templates) | Official premium Tailwind CSS components and site templates. |
 
 ## State Management
 
@@ -383,6 +385,9 @@
 | [**Reweb**](https://www.reweb.so/) | AI transforms screenshots into editable designs |
 | [**Superdesign**](https://app.superdesign.dev/) | AI-powered design platform |
 | [**Adam**](https://adam.new/) | AI-powered CAD platform |
+| [**MagicPath**](https://www.magicpath.ai/) | AI-powered design tool for generating UIs from text prompts. |
+| [**Stitch**](https://stitch.withgoogle.com/) | Google AI-powered UI design tool for generating interfaces from text or images. |
+| [**Sleek**](https://sleek.design/) | AI-powered mobile app mockup generator. |
 
 ---
 
@@ -446,6 +451,7 @@
 | [**Ghostty**](https://ghostty.org/) | Terminal emulator for fast command-line work |
 | [**Raycast**](http://raycast.com/) | Keyboard-first productivity launcher with extensions |
 | [**Lazygit**](https://github.com/jesseduffield/lazygit) | Simple terminal UI for git commands |
+| [**Bun**](https://bun.sh/) | Fast all-in-one JavaScript runtime, bundler, test runner, and package manager. |
 
 ## API Clients & Utilities
 
@@ -509,6 +515,7 @@
 | [**Surge**](https://surge.app/) | SMS API platform |
 | [**Sendo**](https://sendo.dev/) | Best SMS API for developers |
 | [**Kapso**](https://kapso.ai/) | WhatsApp API platform for developers to build AI agents and conversation flows. |
+| [**WhatsApp Cloud Inbox**](https://github.com/gokapso/whatsapp-cloud-inbox) | Open-source WhatsApp inbox for the Cloud API with template messages and media support. |
 | [**Coral Messaging**](https://www.coralmessaging.com/) | WhatsApp solution for visibility and automation |
 | [**A1Base**](https://www.a1base.com/) | API to give AI agents phone numbers and email |
 
@@ -593,6 +600,7 @@
 | [**Affonso**](https://affonso.io/?via=poweredby&sub1=post-bridge&affonso_id=cmlipmwv701v7r101lquuv7o2) | Affiliate program software for SaaS to launch and scale partner programs. |
 | [**Postiz**](https://postiz.com/?via=ollie-warren&dub_id=eh84hZpkZlpD1rWE) | Open-source social media scheduling tool with AI-powered content creation. |
 | [**DoubleSpeed**](https://doublespeed.ai/orchestrator) | Social media orchestration platform for bulk content creation and deployment across accounts. |
+| [**Normal**](https://www.trynormal.ai/) | AI-powered brand asset generation for consistent content at scale. |
 
 ## Sales & Lead Generation
 
@@ -663,6 +671,8 @@
 | [**Native Templates**](https://www.native-templates.com/) | Premium React Native app templates |
 | [**React Native Components**](https://www.reactnativecomponents.com/) | Pre-built components for React Native |
 | [**NativeUI**](https://www.nativeui.io/) | React Native component library inspired by shadcn/ui |
+| [**HeroUI Native**](https://github.com/heroui-inc/heroui-native) | React Native UI library by HeroUI with Expo support. |
+| [**Expo Skills**](https://github.com/expo/skills) | AI agent skills for building and managing Expo projects. |
 
 ## App Store Tools
 
@@ -710,6 +720,7 @@
 | [**Nextjs Boilerplate**](https://github.com/buildFast10x/Nextjs-Boilerplate) | Comprehensive Next.js starter with auth and payments |
 | [**AnotherWrapper**](https://anotherwrapper.com/) | Next.js AI starter kit with 12+ demo apps |
 | [**WinWinKit**](https://winwinkit.com/) | Affiliate and referral management for mobile apps |
+| [**TanPlate**](https://tanplate.com/) | TanStack-based SaaS boilerplate with auth, billing, and AI. |
 
 ---
 
