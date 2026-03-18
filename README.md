@@ -457,6 +457,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [**ApiArk**](https://github.com/berbicanes/apiark) | Lightweight, privacy-first desktop API client with Git-friendly YAML collections |
 | [**Yaak**](https://yaak.app/) | Fast, secure, offline API client that works with Git |
 | [**Repomix**](https://repomix.com/) | Package codebase into AI-friendly file |
 | [**CodeGuide**](https://www.codeguide.dev/) | Transform project ideas into comprehensive documentation |
