@@ -601,6 +601,7 @@
 | [**Postiz**](https://postiz.com/?via=ollie-warren&dub_id=eh84hZpkZlpD1rWE) | Open-source social media scheduling tool with AI-powered content creation. |
 | [**DoubleSpeed**](https://doublespeed.ai/orchestrator) | Social media orchestration platform for bulk content creation and deployment across accounts. |
 | [**Normal**](https://www.trynormal.ai/) | AI-powered brand asset generation for consistent content at scale. |
+| [**Vibe**](https://www.vibe.co/pricing) | Self-serve connected TV advertising platform with AI-powered targeting and campaign optimization. |
 
 ## Sales & Lead Generation
 
