@@ -215,6 +215,7 @@
 | [**Trigger.dev**](https://trigger.dev/) | Platform for AI agents and workflows in TypeScript |
 | [**Inngest**](https://www.inngest.com/) | Durable functions platform for reliable code |
 | [**Hatchet**](https://hatchet.run/) | Durable orchestration for data pipelines |
+| [**Blaxel**](https://blaxel.ai/) | Serverless infrastructure platform for deploying and running AI agents |
 
 ## LLM Monitoring
 
