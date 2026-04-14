@@ -119,6 +119,7 @@
 | [**Checkly**](https://www.checklyhq.com/) | Application reliability with Playwright |
 | [**Maestro**](https://maestro.dev/) | End-to-end testing for mobile and web |
 | [**OpenStatus**](https://www.openstatus.dev/) | Open-source uptime monitoring |
+| [**Blacksmith**](https://www.blacksmith.sh/) | Faster, cheaper GitHub Actions runners on high-performance bare-metal hardware |
 
 ## Webhooks & Integrations
 
