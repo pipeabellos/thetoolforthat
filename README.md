@@ -724,6 +724,7 @@
 | [**AnotherWrapper**](https://anotherwrapper.com/) | Next.js AI starter kit with 12+ demo apps |
 | [**WinWinKit**](https://winwinkit.com/) | Affiliate and referral management for mobile apps |
 | [**TanPlate**](https://tanplate.com/) | TanStack-based SaaS boilerplate with auth, billing, and AI. |
+| [**Open Agents**](https://vercel.com/templates/template/open-agents) | Open source template for building and running background coding agents on Vercel. |
 
 ---
 
