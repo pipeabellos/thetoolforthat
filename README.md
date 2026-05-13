@@ -677,6 +677,7 @@
 | [**NativeUI**](https://www.nativeui.io/) | React Native component library inspired by shadcn/ui |
 | [**HeroUI Native**](https://github.com/heroui-inc/heroui-native) | React Native UI library by HeroUI with Expo support. |
 | [**Expo Skills**](https://github.com/expo/skills) | AI agent skills for building and managing Expo projects. |
+| [**chat-template**](https://github.com/EvanBacon/chat-template) | Universal chat app template built with Expo Router. |
 
 ## App Store Tools
 
