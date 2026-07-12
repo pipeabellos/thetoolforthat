@@ -313,6 +313,7 @@
 | [**Reactiive**](https://reactiive.io/) | React Native animation tutorials and source code demos |
 | [**animations.dev**](https://animations.dev/) | Interactive web animation course covering CSS and Framer Motion |
 | [**Cuelume**](https://cuelume-site.pages.dev/) | Dependency-free JavaScript library that adds procedurally generated sound effects to web interfaces using the Web Audio API. |
+| [**Amicro**](https://amicro.vercel.app/) | Library of small, fluid micro-transitions for adding subtle animated feedback to UI elements. |
 
 ## 3D & Interactive Design
 
