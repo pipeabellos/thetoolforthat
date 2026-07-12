@@ -312,6 +312,7 @@
 | [**AnimateReactNative**](https://www.animatereactnative.com/) | Ready-to-use React Native animations built with Reanimated and Moti |
 | [**Reactiive**](https://reactiive.io/) | React Native animation tutorials and source code demos |
 | [**animations.dev**](https://animations.dev/) | Interactive web animation course covering CSS and Framer Motion |
+| [**Cuelume**](https://cuelume-site.pages.dev/) | Dependency-free JavaScript library that adds procedurally generated sound effects to web interfaces using the Web Audio API. |
 
 ## 3D & Interactive Design
 
