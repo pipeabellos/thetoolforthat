@@ -262,7 +262,7 @@
 | [**assistant-ui**](https://www.assistant-ui.com/) | React toolkit for building AI chat interfaces |
 | [**AI Elements**](https://ai-sdk.dev/elements/overview) | AI-native components for conversations and messages built on shadcn/ui |
 | [**ElevenLabs UI**](https://ui.elevenlabs.io/docs) | Components for multimodal agents, transcription, audio, and voice interfaces |
-| [**Markstream**](https://markstream.simonhe.me/) | Open-source streaming Markdown renderer for AI chat interfaces, supporting Vue, React, Svelte, Angular, and Vue 2. |
+| [**Markstream**](https://markstream.simonhe.me/) | Renders incomplete streaming Markdown for AI chat interfaces across Vue, React, Svelte, Angular, and Vue 2. |
 
 ## Design Kits & Blocks
 
