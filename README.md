@@ -712,6 +712,7 @@
 
 | Tool | Description |
 |------|-------------|
+| [**Screen Break**](https://screen-break-mac.netlify.app/) | Native macOS menu bar break reminder with guided rests, idle reset, and busy auto-defer. |
 | [**Bartender**](https://www.macbartender.com/) | macOS menu bar organizer |
 | [**Dashlane**](https://dashlane.com/) | Password management platform |
 | [**Lex**](https://lex.page/) | Collaborative document editor with AI |
