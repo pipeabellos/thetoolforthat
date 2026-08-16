@@ -121,6 +121,7 @@
 | [**OpenStatus**](https://www.openstatus.dev/) | Open-source uptime monitoring |
 | [**Blacksmith**](https://www.blacksmith.sh/) | Faster, cheaper GitHub Actions runners on high-performance bare-metal hardware |
 | [**Radar**](https://radarhq.io/) | Open-source Kubernetes UI for topology visualization, event timelines, and cluster auditing. |
+| [**Agent QA**](https://github.com/vostride/agent-qa) | Runs natural-language web and mobile regression tests with persistent memory, CLI, MCP, and coding-agent skills. |
 
 ## Webhooks & Integrations
 
