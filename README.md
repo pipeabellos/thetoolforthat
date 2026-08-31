@@ -394,6 +394,7 @@
 | [**MagicPath**](https://www.magicpath.ai/) | AI-powered design tool for generating UIs from text prompts. |
 | [**Stitch**](https://stitch.withgoogle.com/) | Google AI-powered UI design tool for generating interfaces from text or images. |
 | [**Sleek**](https://sleek.design/) | AI-powered mobile app mockup generator. |
+| [**Free Image Merger**](https://freeimagemerger.com/) | Browser-based image merger for side-by-side, stacked, grid, and freestyle layouts without uploading files. |
 
 ---
 
