@@ -466,6 +466,7 @@
 | [**Yaak**](https://yaak.app/) | Fast, secure, offline API client that works with Git |
 | [**Repomix**](https://repomix.com/) | Package codebase into AI-friendly file |
 | [**CodeGuide**](https://www.codeguide.dev/) | Transform project ideas into comprehensive documentation |
+| [**DevProjex**](https://github.com/Avazbek22/DevProjex) | Builds token-efficient project context with GUI, TUI, CLI, and a read-only MCP server, plus live preview, secret redaction, Git scopes, and syntax-aware compression. |
 
 ## Documentation
 
