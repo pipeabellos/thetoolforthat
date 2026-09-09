@@ -608,6 +608,7 @@
 | [**DoubleSpeed**](https://doublespeed.ai/orchestrator) | Social media orchestration platform for bulk content creation and deployment across accounts. |
 | [**Normal**](https://www.trynormal.ai/) | AI-powered brand asset generation for consistent content at scale. |
 | [**Vibe**](https://www.vibe.co/pricing) | Self-serve connected TV advertising platform with AI-powered targeting and campaign optimization. |
+| [**Encer**](https://encer.me/en) | Builds interactive link-in-bio pages with polls, messages, giveaways, live updates, and privacy-aware analytics. |
 
 ## Sales & Lead Generation
 
