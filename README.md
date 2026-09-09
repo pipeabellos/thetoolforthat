@@ -717,6 +717,7 @@
 | [**Lex**](https://lex.page/) | Collaborative document editor with AI |
 | [**Article**](https://article.app/) | Publishing platform |
 | [**Infography**](https://infography.in/) | Convert blog posts into infographics |
+| [**Screen Break**](https://screen-break-mac.netlify.app/) | Helps macOS users take guided rests with idle reset and busy auto-defer. |
 
 ---
 
