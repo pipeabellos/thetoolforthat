@@ -360,6 +360,7 @@
 | [**Rebrand Gallery**](https://rebrand.gallery/) | Showcase of brand identity redesigns and rebrands. |
 | [**Component Gallery**](https://component.gallery/) | Collection of design system component examples. |
 | [**NameThat**](http://namethatui.com/) | Visual dictionary that identifies UI elements by their proper technical names across AppKit, SwiftUI, and Electron. |
+| [**Emote Resizer**](https://emoteresize.com/) | Resize emotes and badges for Twitch, Discord, 7TV, and Slack locally in the browser, with animated GIF support and batch ZIP downloads. |
 
 ## Icons & Assets
 
