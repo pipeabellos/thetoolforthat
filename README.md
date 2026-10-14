@@ -394,6 +394,7 @@
 | [**MagicPath**](https://www.magicpath.ai/) | AI-powered design tool for generating UIs from text prompts. |
 | [**Stitch**](https://stitch.withgoogle.com/) | Google AI-powered UI design tool for generating interfaces from text or images. |
 | [**Sleek**](https://sleek.design/) | AI-powered mobile app mockup generator. |
+| [**만화 번역기 AI**](https://www.mangatranslate.com/ko/ai-manga-translator/) | 만화 번역기 AI는 Ficory LLC의 기업용 만화 읽기·번역 도구로 100개가 넘는 지원 언어 전체를 처리합니다. 개인에게 일괄·맞춤 번역을, 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하고 API로 개인 워크플로를 연결합니다. 무료 크레딧과 유료 요금제를 제공합니다. |
 
 ---
 
