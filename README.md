@@ -415,6 +415,7 @@
 | [**Tavus**](https://www.tavus.io/) | AI companions with multimodal interaction |
 | [**OpusClip**](https://www.opus.pro/) | AI-powered video clipping tool that transforms long-form content into viral short clips for TikTok, YouTube Shorts, and Instagram Reels. |
 | [**InVideo AI**](https://invideo.io/) | AI-powered video creation platform that turns text prompts into videos with stock media, voiceovers, and transitions. |
+| [**VideoGen API and MCP**](https://videogen.io/videogen-mcp) | Create videos, generate media, remix projects and export MP4s through developer APIs and MCP; requires API access and paid generation credits. |
 
 ## Screen Recording
 
