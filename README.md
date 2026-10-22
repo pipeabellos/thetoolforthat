@@ -608,6 +608,7 @@
 | [**DoubleSpeed**](https://doublespeed.ai/orchestrator) | Social media orchestration platform for bulk content creation and deployment across accounts. |
 | [**Normal**](https://www.trynormal.ai/) | AI-powered brand asset generation for consistent content at scale. |
 | [**Vibe**](https://www.vibe.co/pricing) | Self-serve connected TV advertising platform with AI-powered targeting and campaign optimization. |
+| [**OpenSparta**](https://opensparta.com/en) | Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations. |
 
 ## Sales & Lead Generation
 
