@@ -360,6 +360,7 @@
 | [**Rebrand Gallery**](https://rebrand.gallery/) | Showcase of brand identity redesigns and rebrands. |
 | [**Component Gallery**](https://component.gallery/) | Collection of design system component examples. |
 | [**NameThat**](http://namethatui.com/) | Visual dictionary that identifies UI elements by their proper technical names across AppKit, SwiftUI, and Electron. |
+| [**Design Details**](https://designdetails.io/) | Explore real website captures, motion recordings, typography, and color breakdowns. |
 
 ## Icons & Assets
 
