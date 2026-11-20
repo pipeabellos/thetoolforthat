@@ -655,6 +655,7 @@
 | [**Flexile**](https://flexile.com/) | Contractor payment platform |
 | [**Fey**](https://www.fey.com/) | Investment research platform |
 | [**Causal**](https://causal.app/) | Extended Planning and Analysis software |
+| [**DDScore**](https://www.ddscore.ai/) | Cross-checks private-company documents against public sources for first-pass due diligence. |
 
 ---
 
