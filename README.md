@@ -394,6 +394,7 @@
 | [**MagicPath**](https://www.magicpath.ai/) | AI-powered design tool for generating UIs from text prompts. |
 | [**Stitch**](https://stitch.withgoogle.com/) | Google AI-powered UI design tool for generating interfaces from text or images. |
 | [**Sleek**](https://sleek.design/) | AI-powered mobile app mockup generator. |
+| [**Linger**](https://withlinger.com/) | Organize design references and screenshots with source links and notes in a local macOS library. |
 
 ---
 
